@@ -102,7 +102,7 @@ MIT License - Feel free to use this analysis for your own career research.
 
 ## 🙏 Acknowledgments
 
-Data sources: [text](https://airtable.com/appXUMbcBVt3YgB4j/shrLDDwDbLqYT9kFO/tblHEDBsMC1jourQf)
+Data sources: [MetricsDAO](https://airtable.com/appXUMbcBVt3YgB4j/shrLDDwDbLqYT9kFO/tblHEDBsMC1jourQf)
 
 ---
 
